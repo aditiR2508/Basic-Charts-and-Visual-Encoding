@@ -85,7 +85,7 @@
 ### •	Business comparison reports 
 
 # Result:
-## Different basic charts were successfully created using Matplotlib and Seaborn. Visual encoding techniques improved chart readability and interpretation.
+### Different basic charts were successfully created using Matplotlib and Seaborn. Visual encoding techniques improved chart readability and interpretation.
 
 # Conclusion:
-## Through this experiment, we have discovered that basic charts are essential tools for exploratory data analysis. They help in transforming raw data into meaningful insights and information. Visual encoding using color, size, and position makes charts more informative and user-friendly.
+### Through this experiment, we have discovered that basic charts are essential tools for exploratory data analysis. They help in transforming raw data into meaningful insights and information. Visual encoding using color, size, and position makes charts more informative and user-friendly.
