@@ -15,53 +15,53 @@
 ## •	Python 
 ## •	Jupyter Notebook/Google Colab 
 ## •	Libraries--->Pandas, Matplotlib, Seaborn, NumPy 
-Theory:
-Data visualization is the graphical representation of data to make analysis simple and effective. Charts help users understand patterns, comparisons, trends, and relationships quickly.
-Visual Encoding:
-Visual encoding means representing data through visual elements such as:
-•	Position: X-axis and Y-axis placement 
-•	Color: Highlights categories or differences 
-•	Size: Indicates magnitude 
-•	Shape: Distinguishes groups 
-•	Length: Used in bars for comparison 
-Basic Charts Studied:
-1. Line Chart
-Used to show trends or changes over time.
-Example: Study hours or sales across days.
-2. Bar Chart
-Used to compare values among categories.
-Example: Marks comparison across weekdays.
-3. Histogram
-Used to display frequency distribution of numerical data.
-Example: Distribution of student marks.
-4. Scatter Plot
-Used to show relationship between two numerical variables.
-Example: Study hours vs marks.
-5. Grouped Bar Chart
-Used to compare two variables side by side.
-Example: Study hours and marks.
-6. Conditional Scatter Plot
-Uses colors to represent categories such as pass/fail.
-Visualization Libraries Used:
-Matplotlib
-•	Basic plotting library in Python. 
-•	Provides full control over chart customization. 
-Seaborn
-•	Built on Matplotlib. 
-•	Provides attractive and statistical visualizations with less code. 
+# Theory:
+## Data visualization is the graphical representation of data to make analysis simple and effective. Charts help users understand patterns, comparisons, trends, and relationships quickly.
+## (a) Visual Encoding:
+### Visual encoding means representing data through visual elements such as:
+### •	Position---> X-axis and Y-axis placement 
+### •	Color---> Highlights categories or differences 
+### •	Size---> Indicates magnitude 
+### •	Shape---> Distinguishes groups 
+### •	Length---> Used in bars for comparison 
+## (b) Basic Charts Studied:
+### 1. Line Chart
+#### ---> Used to show trends or changes over time.
+#### Example: Study hours or sales across days.
+### 2. Bar Chart
+#### ---> Used to compare values among categories.
+#### Example: Marks comparison across weekdays.
+### 3. Histogram
+#### ---> Used to display frequency distribution of numerical data.
+#### Example: Distribution of student marks.
+### 4. Scatter Plot
+#### ---> Used to show relationship between two numerical variables.
+#### Example: Study hours vs marks.
+### 5. Grouped Bar Chart
+#### ---> Used to compare two variables side by side.
+#### Example: Study hours and marks.
+### 6. Conditional Scatter Plot
+#### ---> Uses colors to represent categories such as pass/fail.
+## (c) Visualization Libraries Used:
+### 1. Matplotlib
+#### •	Basic plotting library in Python. 
+#### •	Provides full control over chart customization. 
+### 2. Seaborn
+#### •	Built on Matplotlib. 
+#### •	Provides attractive and statistical visualizations with less code. 
 
-Dataset Used:
-Two datasets were used:
-Dataset 1: Student Performance Data
-•	Days 
-•	Study Hours 
-•	Marks 
-•	Attendance 
-•	Sleep Hours 
-•	Assignments Completed 
+# Datasets Used:
+## In this experiment, we have used two different datasets.
+## (a) Dataset 1: Student Performance Data
+### •	Days 
+### •	Study Hours 
+### •	Marks 
+### •	Attendance 
+### •	Sleep Hours 
+### •	Assignments Completed 
 
-Dataset 2: Sales Data
-•	Day 
+## (b) Dataset 2: Sales Data
+### •	Day 
 •	Region 
 •	Sales 
 •	Profit 
