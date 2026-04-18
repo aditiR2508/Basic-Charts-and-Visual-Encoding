@@ -7,16 +7,16 @@
 # Aim:
 ## To study and implement basic charts and understand visual encoding techniques using Matplotlib and Seaborn libraries in Python.
 # Objectives:
-## •	To learn different types of basic data visualization charts. 
-## •	To understand visual encoding concepts such as color, size, shape, and position. 
-## •	To compare visualizations created using Matplotlib and Seaborn. 
-## •	To analyze trends, comparisons, distributions, and relationships using charts. 
+### •	To learn different types of basic data visualization charts. 
+### •	To understand visual encoding concepts such as color, size, shape, and position. 
+### •	To compare visualizations created using Matplotlib and Seaborn. 
+### •	To analyze trends, comparisons, distributions, and relationships using charts. 
 # Software Required:
-## •	Python 
-## •	Jupyter Notebook/Google Colab 
-## •	Libraries--->Pandas, Matplotlib, Seaborn, NumPy 
+### •	Python 
+### •	Jupyter Notebook/Google Colab 
+### •	Libraries Used--->Pandas, Matplotlib, Seaborn, NumPy 
 # Theory:
-## Data visualization is the graphical representation of data to make analysis simple and effective. Charts help users understand patterns, comparisons, trends, and relationships quickly.
+### Data visualization is the graphical representation of data to make analysis simple and effective. Charts help users understand patterns, comparisons, trends, and relationships quickly.
 ## (a) Visual Encoding:
 ### Visual encoding means representing data through visual elements such as:
 ### •	Position---> X-axis and Y-axis placement 
