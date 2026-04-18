@@ -62,30 +62,30 @@
 
 ## (b) Dataset 2: Sales Data
 ### •	Day 
-•	Region 
-•	Sales 
-•	Profit 
-•	Customers 
-•	Category 
+### •	Region 
+### •	Sales 
+### •	Profit 
+### •	Customers 
+### •	Category 
 
-Observations:
-•	Line chart clearly displayed daily trends. 
-•	Advanced line chart compared study hours and marks together. 
-•	Bar chart effectively compared marks values. 
-•	Histogram showed spread of marks data into bins. 
-•	Scatter plot indicated positive relationship between study hours and marks. 
-•	Conditional scatter plot highlighted pass/fail results using colors. 
-•	Seaborn charts appeared visually attractive and easier to interpret. 
+# Observations:
+### •	Line chart clearly displayed daily trends. 
+### •	Advanced line chart compared study hours and marks together. 
+### •	Bar chart effectively compared marks values. 
+### •	Histogram showed spread of marks data into bins. 
+### •	Scatter plot indicated positive relationship between study hours and marks. 
+### •	Conditional scatter plot highlighted pass/fail results using colors. 
+### •	Seaborn charts appeared visually attractive and easier to interpret. 
 
-Applications:
-•	Student performance analysis 
-•	Sales trend analysis 
-•	Customer behavior study 
-•	Attendance monitoring 
-•	Business comparison reports 
+# Applications:
+### •	Student performance analysis 
+### •	Sales trend analysis 
+### •	Customer behavior study 
+### •	Attendance monitoring 
+### •	Business comparison reports 
 
-Result:
-Different basic charts were successfully created using Matplotlib and Seaborn. Visual encoding techniques improved chart readability and interpretation.
+# Result:
+## Different basic charts were successfully created using Matplotlib and Seaborn. Visual encoding techniques improved chart readability and interpretation.
 
-Conclusion:
-Basic charts are essential tools for exploratory data analysis. They help transform raw data into meaningful insights. Visual encoding using color, size, and position makes charts more informative and user-friendly.
+# Conclusion:
+## Through this experiment, we have discovered that basic charts are essential tools for exploratory data analysis. They help in transforming raw data into meaningful insights and information. Visual encoding using color, size, and position makes charts more informative and user-friendly.
